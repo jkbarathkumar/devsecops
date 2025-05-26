@@ -1,4 +1,4 @@
-@Library('my-maven') _
+@Library('my-maven@main') _
 
 pipeline {
     agent any 
